@@ -1,0 +1,101 @@
+.events-app-cont {
+  display: flex;
+  align-items: center;
+  padding: 50px;
+}
+
+.events-page-cont {
+  background-color: #3a4b63;
+  padding: 10px;
+  min-height: 400px;
+  width: 500px;
+}
+.events-heading {
+  font-family: Roboto;
+  font-size: 28px;
+  color: #ffffff;
+}
+.events-list-cont {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.initial-view-cont {
+  width: 280px;
+  text-align: center;
+  align-self: flex-start;
+  padding: 20px;
+  height: 602px;
+}
+.instructions {
+  font-family: Roboto;
+  font-size: 16px;
+  color: #64748b;
+  font-weight: bold;
+}
+.yet-to-register-cont {
+  align-self: flex-end;
+  text-align: center;
+  width: 280px;
+  height: 602px;
+  padding: 20px;
+}
+.yet-to-register {
+  width: 200px;
+}
+.register-info {
+  font-family: roboto;
+  font-size: 13px;
+  color: #323f4b;
+}
+.register-now-btn {
+  background-color: #0967d2;
+  border: 0px solid;
+  border-radius: 4px;
+  width: 120px;
+  height: 30px;
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 12px;
+}
+
+.registered-cont {
+  align-self: center;
+  text-align: center;
+  padding: 20px;
+}
+.registered-sign {
+  height: 120px;
+  width: 120px;
+}
+.registered-info {
+  font-family: Roboto;
+  font-size: 16px;
+  color: #323f4b;
+  font-weight: bold;
+}
+
+.reg-close-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.reg-close {
+  width: 180px;
+}
+
+.closed-now-info {
+  font-family: Roboto;
+  font-size: 16px;
+  color: #323f4b;
+  font-weight: bold;
+}
+
+.closed-des {
+  font-family: Roboto;
+  font-size: 12px;
+  color: #475569;
+}

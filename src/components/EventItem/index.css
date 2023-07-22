@@ -1,0 +1,21 @@
+.list-items {
+  list-style-type: none;
+  cursor: pointer;
+  outline: none;
+  margin-left: 20px;
+  width: 200px;
+}
+
+.event-img-style {
+  width: 150px;
+}
+.event-name {
+  font-family: Roboto;
+  font-size: 16px;
+  color: #ffffff;
+}
+.event-location {
+  color: #f8fafc;
+  font-family: Roboto;
+  font-size: 13px;
+}
